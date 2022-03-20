@@ -24,4 +24,4 @@ Moscow Polytechnic University, Management
 [HTML Academy](https://htmlacademy.ru/)
 ## Languages
 * Russian
-* English
+* English - A2
